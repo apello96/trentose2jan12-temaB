@@ -2,7 +2,7 @@
   "name": "trentose2jan12-temab",
   "version": "1.0.0",
   "description": "esame 12/01/18 ingegneria del software 2",
-  "main": "area.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
