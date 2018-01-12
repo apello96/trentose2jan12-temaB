@@ -1,0 +1,26 @@
+{
+  "name": "trentose2jan12-temab",
+  "version": "1.0.0",
+  "description": "esame 12/01/18 ingegneria del software 2",
+  "main": "area.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^22.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apello96/trentose2jan12-temaB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apello96/trentose2jan12-temaB/issues"
+  },
+  "homepage": "https://github.com/apello96/trentose2jan12-temaB#readme"
+}
