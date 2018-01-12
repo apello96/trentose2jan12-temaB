@@ -11,3 +11,4 @@ app.get('/',function(req,res) {
 	res.json(area);
 })
 
+module.exports = app;
